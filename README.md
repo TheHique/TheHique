@@ -1,9 +1,9 @@
 # Senshi
 My GitHub profile
-<h1 align="center">Привет 👋, я YOUR_NAME</h1>
+<h1 align="center">Привет 👋, я Дима</h1>
 
 <h3 align="center">
-🎓 Студент | 🐍 Python | 🤖 Machine Learning | 📊 Data Science
+🎓 Student | 🐍 Python | 🤖 Machine Learning | 📊 Data Science
 </h3>
 
 <p align="center">
