@@ -42,15 +42,5 @@ My GitHub profile
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-class Student:
 
-    def __init__(self):
-        self.languages = ["Python"]
-        self.interests = [
-            "Machine Learning",
-            "Data Science",
-            "Software Development"
-        ]
 
-    def current_goal(self):
-        return "Learn. Build. Improve. 🚀"
